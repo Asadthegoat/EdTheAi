@@ -1,0 +1,79 @@
+{
+  
+  "1987_Classics": [
+    { "item": "Hamburger", "price": 2.29 },
+    { "item": "Cheeseburger", "price": 2.59 },
+    { "item": "Double Cheese", "price": 4.09 },
+    { "item": "Chick'N Eddie", "price": 4.09 },
+    { "item": "Double Bacon Cheese", "price": 4.99 }
+  ],
+  "Crazy_Kids_Meal": {
+    "description": "Burger, Fry, Drink & Cheese Sauce",
+    "price": 5.99
+  },
+  "Crazy_Frys": [
+    { "item": "Beef Frys", "price": 4.89 },
+    { "item": "Pickle Frys", "price": 4.89 },
+    { "item": "Bacon CrazyFrys", "price": 5.99 },
+    { "item": "Party-Size CrazyFrys", "price": 13.99 },
+    { "item": "Classic CrazyFrys", "price": 6.99 },
+    { "item": "Naked Frys", "price": 3.49 },
+    { "item": "All Dressed Frys", "price": 3.99 }
+  ],
+  "Wildshakes": {
+    "flavours": [
+      "Chocolate", "Strawberry", "Banana",
+      "Double Chocolate Crumble", "Choc Monkey",
+      "Banana Berry", "Strawberry Shortcake", "Skor",
+      "Banana Cream Pie"
+    ],
+    "price": 5.99
+  },
+  "Drinks": [
+    { "item": "Pepsi", "price": 1.99 },
+    { "item": "Mountain Dew", "price": 2.49 },
+    { "item": "Diet Pepsi", "price": 2.49 },
+    { "item": "Dr Pepper", "price": 2.59 },
+    { "item": "Water", "price": 2.59 }
+  ],
+  "Combo_Meals": [
+    {
+      "item": "Double Burger Works",
+      "price": 9.99,
+      "includes": ["Pepsi", "Fries"]
+    },
+    {
+      "item": "Double Bacon Cheese Slider",
+      "price": 10.49,
+      "includes": ["Pepsi", "Fries"]
+    },
+    {
+      "item": "Steak Cheese Burger",
+      "price": 10.99,
+      "includes": [],
+      "note": "6 oz chuck, Canadian beef"
+    },
+    {
+      "item": "Chicken Works",
+      "price": 8.99,
+      "includes": ["Pepsi", "Fries"]
+    },
+    {
+      "item": "Chicken Wing Burger",
+      "price": 9.49,
+      "includes": ["Pepsi", "Fries"],
+      "sauce": "Frank's RedHot"
+    }
+  ],
+  "10_Pak_Burgers": {
+    "description": "10 burgers",
+    "price": 20.00
+  },
+  "Featured_Items": [
+    {
+      "item": "Chick'N Eddie",
+      "description": "Ed's Famous Maxx Sauce"
+    }
+  ]
+  
+}
