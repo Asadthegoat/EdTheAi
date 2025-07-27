@@ -1,0 +1,32 @@
+{
+  "business_name": "Fast Eddie's",
+  "location": "688 Hespeler Rd, Cambridge, ON N3H 4R7",
+  "phone": "(519) 620-3028",
+  "hours": {
+    "monday": "9:00 AM – 12:30 AM",
+    "tuesday": "9:00 AM – 12:30 AM",
+    "wednesday": "9:00 AM – 12:30 AM",
+    "thursday": "9:00 AM – 12:30 AM",
+    "friday": "9:00 AM – 1:30 AM",
+    "saturday": "9:00 AM – 1:30 AM",
+    "sunday": "9:00 AM – 11:30 PM"
+  },
+  "description": ["On September 27, 1987, Fast Eddie�s� was co-founded by Ted and Mike Gorski in the city of Brantford Ontario, at the municipal address of 9 Stanley Street. The business was originally structured as a father and son partnership. The windows opened, the cars started driving thru and the burgers were flying out faster than you could imagine. After all, Fast Eddie�s� 100% pure beef burgers originally sold for sixty-nine (69 cents) everyday. Back then, everyday low prices were not common amongst the burger giants. Ted & Mike knew that their formula of high quality, fast service and extremely low prices would take them far and win them accolades amongst their true burger fans. Not surprisingly, their philosophy of quality, fast service and low prices still exists as the cornerstone of their commitment to �Ultimate Customer Value�. Years and years have gone into developing and refining the Fast Eddie�s� �Speedy System� and we can honestly say that we created what we consider to be the finest burger �Turn-Key Franchise� in the industry. Today, Fast Eddie�s� offers �Fast Service� to it�s customers in a �Flashy� little building specifically designed as a Twin Drive-Thru Restaurant. Customers may be served from either side of the building simultaneously. Fast Eddie�s� has the �Distinctive Advantage� of two (2) order stations, two (2) separate drive thru lanes and two (2) separate serving windows. Our ability to take two orders simultaneously distinguishes us from our competition by allowing us to serve customers very quickly, often in 40 seconds or less. Fast Eddie�s� menu is �Uniquely Different� consisting of high quality burgers, specialty fries and gourmet shakes. Fast Eddie�s� fries come in five different flavours trademarked under the name �CrazyFrys��. Our milkshakes are �Gourmet Style� and come in several different flavours and are offered as �WildShakes�. We also serve chicken burgers, soft drinks and speciality burgers called �Sliders��. Fast Eddie�s� developed a proprietary �Speedy System� solely for the purpose of preparing and selling it�s products in the most efficient possible way. Efficiency is achieved through our especially designed �Brain-Training Program� allowing us to eliminate wasted time and effort in preparing and serving our customers. �Streamlining and Efficiency� is a Fast Eddie�s� core philosophy. Evidence of our philosophy is apparent in our sleek little buildings, operational systems and training programs, all of which transcend time and allow Fast Eddie�s� to continuously pass on savings to it�s customers in the form of �Everyday Low Prices�"
+],
+"How to Order":["Fast Eddie's Offers a drive through and walk up window for takeout service, as well as online ordering options such as SkipTheDishes, Uber Eats and Doordash"
+],
+"Online Ordering Platforms":{
+  "SkipTheDishes":"https://www.skipthedishes.com/fast-eddies",
+  "Doordash":"https://www.doordash.com/en-CA/store/fast-eddie's-cambridge-278812/1104806/?srsltid=AfmBOoq8640tiw7qw4_dHe52ghPL8WLeS9FuJ4Vu3dnOznCtICmEj5TO",
+  "Uber Eats":"https://www.ubereats.com/ca/store/fast-eddies-cambridge/Nk1HyIaQSWSffAEPw4tYAA?srsltid=AfmBOorAxdyJxjDNmVggqN52oB144742yKVgH6xTrQtA4xvFl-2UIna1"
+},
+  "services": [
+    "Takeout",
+    "Delivery",
+    "Drive-thru"
+  ]
+  
+  
+
+}
+
