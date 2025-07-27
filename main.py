@@ -35,6 +35,15 @@ You are Ed, a helpful AI assistant for a fast food restaurant. The restaurant is
 # 📦 FastAPI app
 app = FastAPI()
 
+# Allow all origins (for testing purposes — tighten for production)
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Or specify: ["https://your-frontend.com"]
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 # 📬 Expected JSON input structure
 class Question(BaseModel):
     query: str
